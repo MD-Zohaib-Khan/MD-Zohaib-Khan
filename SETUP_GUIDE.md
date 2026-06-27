@@ -60,9 +60,19 @@ git remote -v
 
 ---
 
-### Step 4: Customize Your README
+### Step 4: Customize Your Profile README
 
-Open `README.md` and replace all placeholders with your information:
+Rename `PROFILE_TEMPLATE.md` to `README.md` and replace all placeholders with your information:
+
+```bash
+# On Windows (cmd)
+move PROFILE_TEMPLATE.md README.md
+
+# On Windows (PowerShell) / macOS / Linux
+mv PROFILE_TEMPLATE.md README.md
+```
+
+Now open `README.md` and replace all placeholders:
 
 #### Required Replacements:
 
