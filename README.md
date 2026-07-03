@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎨 GitHub Revamp - Profile README Template
 
 > Create an awesome GitHub profile README in minutes! Clone, customize, and showcase your projects with style.
@@ -202,3 +203,21 @@ Project Link: [https://github.com/gulglitch/github-revamp](https://github.com/gu
 **Made with ❤️ for the developer community**
 
 *Happy profiling! 🚀*
+=======
+## Hi there 👋
+
+<!--
+**MD-Zohaib-Khan/MD-Zohaib-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 39492c9d87c173a53ebb0f1b309f930ec2d3e302
