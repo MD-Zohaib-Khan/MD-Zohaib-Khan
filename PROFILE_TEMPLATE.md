@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Zohaib Khan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack Web Developer;AI Automation Specialist;Building Technology That Solves Real Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack+Web+Developer;AI+Automation+Specialist;Building+Technology+That+Solves+Real+Problems)](https://git.io/typing-svg)
 
 ---
 
